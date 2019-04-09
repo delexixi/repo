@@ -8,5 +8,11 @@
   "profile": {
     "id":1,
     "name": "typicode"
-  }
+  },
+  "test": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
 }
